@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=tarea2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ v
+comment2.target=int\ posValor(int[],\ int)
+comment3.params=a
+comment3.target=void\ imprimir(int[])
+comment4.params=m
+comment4.target=void\ mensaje(java.lang.String)
+numComments=5
